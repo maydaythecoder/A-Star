@@ -58,6 +58,3 @@ The Pygame library is used for visualization, providing a window where you can d
 - Python (3.x recommended)
 - Pygame library
 
-## Note
-
-This code is intended for educational purposes to help understand the A* pathfinding algorithm and is not intended for production use.
